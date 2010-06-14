@@ -1,0 +1,3 @@
+SMILEs - contains positive and negative sample sets with associated idx
+files
+smileD - contains 5 different smile detectors trained from SMILEsample
