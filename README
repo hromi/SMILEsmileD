@@ -1,3 +1,5 @@
-SMILEs - contains positive and negative sample sets with associated idx
-files
-smileD - contains 5 different smile detectors trained from SMILEsample
+SMILEsmileD - smile detector open source project v0.5
+
+SMILEs - contains positive and negative sample sets with associated idx files
+smileD - XML cascades for OpenCV's cvHaarDetectObjects function
+appz - ad hoc applications useful for extending of SMILEsample and smileDetector testing
